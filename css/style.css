@@ -1,0 +1,113 @@
+.barracolor{
+    background-color: #4570c6;
+    width: 375px;
+    padding-right: 50px;
+}
+
+.botonAzul{
+    background-color: #4570c6;
+}
+
+.iconoColor{
+    color: #4570c6;
+}
+.espacio{
+    margin-left: 500px;
+    padding-left: 500px;
+}
+
+.textoblancoNav{
+    color:#FFFFFF;
+    text-align: right;
+}
+.textoGrisNav{
+    color:#b1c3e8;
+    text-align: right;
+}
+
+.icono{
+    color:#FFFFFF;
+}
+
+.tabla{
+    background-color:#FFFFFF;
+    padding-left: 150px;
+    padding-right: 50px;
+}
+
+.tabla2{
+    background-color:#FFFFFF;
+    margin-left: 170px;
+    margin-right: 55px;
+}
+
+
+.tabla3{
+    margin-left: 160px;
+    margin-right: 3px;
+}
+
+.fondo{
+    background-color:#cdcdcd;
+
+}
+
+.boton{
+    width: 5px;
+}
+
+.textoLink{
+    color:#9c917f;
+}
+
+.hoverLink{
+    color:#9c917f;
+}
+.hoverLink:hover{
+    color:#4570c6;
+}
+
+.letraBlanca{
+    color:#FFFFFF;
+}
+.letraBlanca:hover{
+    color:#FFFFFF;
+}
+
+.letraAzul{
+    color: #4570c6;
+}
+
+.botonBorde{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4570c6;
+}
+
+.negroBoton{
+    background-color:#000000;
+    color:#FFFFFF;
+
+}
+
+.cajaAzul{
+    background-color: #4570c6;
+    color: #FFFFFF;
+    margin-bottom: -15px;
+    margin-right: 350px;
+    margin-left: 350px;
+}
+
+.cardPropio{
+    margin-right: 2px;
+    margin-left: 2px;
+    background-color:#FFFFFF;
+}
+
+.textoIzquierdo{
+    text-align: right;
+}
+
+.textoDerecha{
+    text-align: left;
+}
